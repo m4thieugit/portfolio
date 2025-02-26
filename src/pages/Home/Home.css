@@ -1,0 +1,7 @@
+body {
+    font-family: 'Red Hat Display', sans-serif;
+    background: #fff;
+    background-image: linear-gradient(rgba(46, 211, 123, 0.07) 0.1em, transparent 0.1em),
+    linear-gradient(90deg, #2ed37b14 0.1em, transparent 0.1em);
+    background-size: 3em 3em;
+}
